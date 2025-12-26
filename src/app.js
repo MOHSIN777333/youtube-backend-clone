@@ -32,3 +32,9 @@ app.use("/api/v1/users", userRouter);
 export { app };
 
 // http://localhost:3000/api/v1/users/register
+/* {
+  "username": "mohsin",
+  "fullName": "mohsin ali",
+  "email": "mohsin@gamil.com",
+  "password": "mohsin123"
+ }*/
